@@ -1,7 +1,10 @@
 
 var argscheck = require('cordova/argscheck'),
     utils = require('cordova/utils'),
-    exec = require('cordova/exec')
+    exec = require('cordova/exec'),
+    Position = require('./Position'),
+    PositionError = require('./PositionError'),
+    Region = require('./Region');
 
 var timers = {};   // list of timers in use
 
