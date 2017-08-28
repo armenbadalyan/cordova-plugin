@@ -1,9 +1,9 @@
 {
-  "name": "cordova-plugin-indooratlas",
+  "name": "cordova-plugin-indooratlas-appery",
   "version": "1.2.1",
   "description": "Cordova plugin using IndoorAtlas positioning API.",
   "cordova": {
-    "id": "cordova-plugin-indooratlas",
+    "id": "cordova-plugin-indooratlas-appery",
     "platforms": [
       "android",
 	  "ios"
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/armenbadalyan/cordova-plugin"
+    "url": "https://github.com/armenbadalyan/indoor-atlas-plugin"
   },
   "keywords": [
     "cordova",

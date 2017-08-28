@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
-        id="cordova-plugin-indooratlas"
+        id="cordova-plugin-indooratlas-appery"
         version="1.2.1">
 
-	<name>IndoorAtlas</name>
+	<name>IndoorAtlasAppery</name>
 	<description>A Cordova plugin that integrates IndoorAtlas</description>
 	<engines>
 		<engine name="cordova" version=">=3.6.0" />
